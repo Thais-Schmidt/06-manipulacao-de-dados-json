@@ -1,0 +1,31 @@
+{
+    "nomeEscola": "SENAI",
+    "cidade": "Sumare",
+    "ano": "2023",
+    "alunos": [
+        {
+            "nome": "Thais",
+            "sobrenome": "Schmidt",
+            "idade": "22",
+            "sexo": "feminino",
+            "cidade": "Sumare",
+            "estado": "Sao Paulo"
+        },
+        {
+            "nome": "Camila", 
+            "sobrenome": "Queiroz",
+            "idade": "19",
+            "sexo": "feminino",
+            "cidade": "Sumare",
+            "estado": "Sao Paulo"
+        },
+        {
+            "nome": "Gabriel",
+            "sobrenome": "Valle",
+            "idade": "19",
+            "sexo": "masculino",
+            "cidade": "Sumare",
+            "estado": "Sao Paulo"
+        }
+    ]    
+}
